@@ -52,11 +52,11 @@ An App that answers your questions based on information from uploaded documents(
 
 ![Processing Document](images/3.png)
 
-*Figure 3: Creating text embeddings from document and storing in vector database.*
+*Figure 3: Asking a relevant question.*
 
 ![Ask Question](images/4.png)
 
-*Figure 4: Asking a question and receiving an answer based on the document's content.*
+*Figure 4: Receiving an answer based on the document's content.*
 </details>
 
 <br></br>
