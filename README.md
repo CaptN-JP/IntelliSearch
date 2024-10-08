@@ -104,15 +104,16 @@ streamlit run main.py
 
 
 ## Project Structure
-
+```
 IntelliSearch/
 ├── main.py                 # Main Streamlit application script
 ├── main.ipynb              # Same workflow in jupyter notebook
 ├── env.yml                 # Python dependencies
 ├── README.md               # Project documentation
 ├── images/                 # Folder for images and screenshots
-│   ├── upload_screenshot.png
-│   └── question_screenshot.png
+    ├── demo_screenshot_1.png
+    └── demo_screenshot_2.png
+```
 <!-- └── models/                 # Pre-trained models (optional) -->
 
 ---
